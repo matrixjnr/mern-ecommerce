@@ -1,4 +1,4 @@
-# MERN Ecommerce
+# Young Computer Ecommerce
 
 ## Description
 

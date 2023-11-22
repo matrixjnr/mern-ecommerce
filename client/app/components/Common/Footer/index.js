@@ -65,11 +65,11 @@ const Footer = () => {
           </div>
         </div>
         <div className='footer-copyright'>
-          <span>© {new Date().getFullYear()} MERN Store</span>
+          <span>© {new Date().getFullYear()} Young Computer Store</span>
         </div>
         <ul className='footer-social-item'>
           <li>
-            <a href='/#facebook' rel='noreferrer noopener' target='_blank'>
+            <a href='https://web.facebook.com/youngcompsystem' rel='noreferrer noopener' target='_blank'>
               <span className='facebook-icon' />
             </a>
           </li>
